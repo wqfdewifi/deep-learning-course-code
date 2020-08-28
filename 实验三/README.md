@@ -1,4 +1,4 @@
-# 实验三
+# 卷积神经网络实验
 
 The code in mainly built using the [PyTorch](https://pytorch.org/) deep learning library.
 
